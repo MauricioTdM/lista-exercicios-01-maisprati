@@ -51,7 +51,6 @@ npm install prompt-sync
 
 ```
 git clone https://github.com/MauricioTdM/lista-exercicios-01-maisprati.git
-cd exercicio01-maisparati
 ```
 
 2. Execute o arquivo desejado com o Node.js:
