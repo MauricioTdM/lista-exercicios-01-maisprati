@@ -50,7 +50,7 @@ npm install prompt-sync
 1. Clone este repositório:
 
 ```
-git clone https://github.com/sucloudflare/exercicio01-maisparati
+git clone https://github.com/MauricioTdM/lista-exercicios-01-maisprati.git
 cd exercicio01-maisparati
 ```
 
